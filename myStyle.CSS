@@ -1,0 +1,17 @@
+body {
+    background-color:purple
+}
+
+input.red {
+    background-color: red;
+    
+}
+input.green{
+	background-color: green;
+}
+
+.submitButton {
+   
+    background-color: pink;
+    color: blue;
+}
